@@ -31,9 +31,12 @@
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/> 
   </a>  </p>
 
+## My Skills
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyameena1&show_icons=true&locale=en&layout=compact" alt="divyameena1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyameena1&show_icons=true&locale=en" alt="divyameena1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyameena1&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="divyameena1" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyameena1&" alt="divyameena1" /></p>
 
