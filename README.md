@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Divye Meena</h1>
-<h3 align="center">A passionate Game developer from India</h3>
+<h3 align="center">A Game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/403190694216335362/1197229939485843527/dev-developer_1.gif?ex=65ba8245&is=65a80d45&hm=410634cbafd458a87e6f9019e9742443b6c41b161e9f7264386f06e9ffb050ab&">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyameena1&label=Profile%20views&color=0e75b6&style=flat" alt="divyameena1" /> </p>
@@ -31,12 +31,4 @@
     <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal" width="50" height="40"/> 
   </a>  </p>
 
-## My Skills
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyameena1&show_icons=true&locale=en&layout=compact" alt="divyameena1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyameena1&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="divyameena1" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyameena1&" alt="divyameena1" /></p>
 
